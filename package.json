@@ -17,5 +17,11 @@
     "url": "https://github.com/soyounglim33/gulp/issues"
   },
   "homepage": "https://github.com/soyounglim33/gulp#readme",
-  "main": "gulpfile.js"
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/register": "^7.8.3"
+  }
 }
