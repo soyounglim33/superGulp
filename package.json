@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development enviroment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyounglim33/gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyounglim33/gulp/issues"
+  },
+  "homepage": "https://github.com/soyounglim33/gulp#readme",
+  "main": "gulpfile.js"
+}
